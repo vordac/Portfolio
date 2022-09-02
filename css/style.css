@@ -1,0 +1,27 @@
+body{
+    margin:0;
+}
+
+header{
+    background-color: cornflowerblue;
+    display: flex;
+}
+
+.logo{
+    width:64px;
+    height: 64px;
+}
+
+img{
+    width: 64px;
+    height: 64px;
+}
+
+.buttons{
+}
+
+
+section{
+    width: 300px;
+    height: 300px;
+}
